@@ -4,12 +4,12 @@
 The objective of this project is to analyze and forecast stock prices using two powerful time series forecasting techniques: Facebook Prophet and the ARIMA (AutoRegressive Integrated Moving Average) model. The goal is to compare both models in terms of accuracy and usability for predicting future trends in stock prices.
 
 🛠️ Tools and Libraries
-Python
-Pandas, NumPy – Data manipulation
-Matplotlib, Seaborn, Plotly – Visualization
-statsmodels – ARIMA modeling
-fbprophet – Prophet modeling
-sklearn – Evaluation metrics
+- Python
+- Pandas, NumPy – Data manipulation
+- Matplotlib, Seaborn, Plotly – Visualization
+- statsmodels – ARIMA modeling
+- fbprophet – Prophet modeling
+- sklearn – Evaluation metrics
 
 ✅ Observations
 - Prophet handled seasonality and long-term trends better, making it suitable for extended forecasts.
